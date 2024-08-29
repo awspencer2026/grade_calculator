@@ -7,8 +7,6 @@ This folder contains the following .py files:
 
 This folder also contains the following files:
 1. report_card.txt - this is the output for the report card
-2. report.pdf - this is the report for the project
-
 
 How to run the code:
 
