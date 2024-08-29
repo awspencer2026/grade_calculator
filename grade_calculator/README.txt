@@ -9,12 +9,10 @@ This folder also contains the following files:
 1. report_card.txt - this is the output for the report card
 2. report.pdf - this is the report for the project
 
-
 How to run the code:
 
 1. Open the grade_calcultor_application.py file in IDLE
 2. Hit RUN or press F5
-
 
 Input Instructions:
 
