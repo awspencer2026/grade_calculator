@@ -1,4 +1,4 @@
-My first python program created on 12/01/2023 is a simple text-based grade calculator. I plan on expanding it with my newly obtained OOP knowledge in the future.
+My first Python program created on 12/01/2023 as my final project for IT 109 is a simple text-based grade calculator. I plan on expanding it with my newly obtained OOP knowledge in the future.
 
 This folder contains the following .py files:
 1. grade_calculator_utility.py - this is the back end of the program
